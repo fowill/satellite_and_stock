@@ -1,2 +1,4 @@
 This codebase accompanies the paper ***Publicly available satellite imagery of container ports reveals the global stock markets predictability***. It includes code to fully reproduce core findings of the study. It also includes code to reproduce all the paper's figures.  
 ![figure1](https://github.com/satellite-and-stock-return/satellite_and_stock/blob/master/imgs/figure1.png "figure1")
+![figure2](https://github.com/satellite-and-stock-return/satellite_and_stock/blob/master/imgs/figure2.png "figure2")
+![figure3](https://github.com/satellite-and-stock-return/satellite_and_stock/blob/master/imgs/figure3.png "figure3")
