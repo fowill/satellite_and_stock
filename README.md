@@ -22,7 +22,9 @@ This codebase accompanies the paper ***Publicly available satellite imagery of c
 
 ## Steps to plot paper figures using the paper's results & forecasts
 
-Not finished yet
+- We use MATLAB for empirical works.
+- Run `main.m` to prepare the data.
+- Run `plot_fig_3.m` to `plot_fig_6.m` to plot figures about empirical results.
 
 
 
